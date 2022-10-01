@@ -14,8 +14,6 @@ Release Information
 **************************
 Changelog and New Features
 **************************
-
-<<<<<<< HEAD
 1.Menu Dashboard.
 2.Menu Data Guru
 3.Menu Data Walikelas
@@ -75,8 +73,8 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-<<<<<<< HEAD
 Hak Ases
 ***************
 email : admin@gmail.com 
 pass  : user
+
