@@ -1,29 +1,27 @@
 ###################
-What is CodeIgniter
+Aplikasi
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+aplikasi spp ini dibuat dengan framework codeigniter 3. 
+aplikasi spp ini masih banyak kekuranganya dan masih bisa di kembangkan lagi.
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+25 juli 2022.
 
 **************************
 Changelog and New Features
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+1.Menu Dashboard.
+2.Menu Data Guru
+3.Menu Data Walikelas
+4.Menu Data siswa
+5.Menu Transaksi
+6.Menu Laporan
+7.Menu profil
 
 *******************
 Server Requirements
@@ -39,8 +37,16 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+1.Download zip.
+2.Extract di htdocs
+3.Buka dan nyalain apache dan mysql di xampp
+4.jalanin http://loacalhost/spp
+
+**************
+Tampilan utama
+**************
+
+<img src="http://localhost/spp/assets/img/Screenshot%20(164).png">
 
 *******
 License
@@ -64,8 +70,7 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-Acknowledgement
+Hak Ases
 ***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+email : admin@gmail.com 
+pass  : user
