@@ -37,8 +37,10 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+1. Download zip.
+2. Extract di htdocs
+3. Buka dan nyalain apache dan mysql di xampp
+4. jalanin http://loacalhost/spp
 
 *******
 License
@@ -62,8 +64,7 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-Acknowledgement
+Hak ases
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+admin@gmail.com : user
