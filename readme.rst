@@ -1,5 +1,5 @@
 ###################
-Aplikasi
+aplikasi spp
 ###################
 
 aplikasi spp ini dibuat dengan framework codeigniter 3. 
@@ -15,6 +15,7 @@ Release Information
 Changelog and New Features
 **************************
 
+<<<<<<< HEAD
 1.Menu Dashboard.
 2.Menu Data Guru
 3.Menu Data Walikelas
@@ -22,6 +23,15 @@ Changelog and New Features
 5.Menu Transaksi
 6.Menu Laporan
 7.Menu profil
+=======
+1. Menu Dashboard.
+2. Menu Data Guru
+3. Menu Data Walikelas
+4. Menu Data siswa
+5. Menu Transaksi
+6. Menu Laporan
+7. Menu profil
+
 
 *******************
 Server Requirements
@@ -47,6 +57,10 @@ Tampilan utama
 **************
 
 <img src="http://localhost/spp/assets/img/Screenshot%20(164).png">
+1. Download zip.
+2. Extract di htdocs
+3. Buka dan nyalain apache dan mysql di xampp
+4. jalanin http://loacalhost/spp
 
 *******
 License
@@ -70,7 +84,13 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
+<<<<<<< HEAD
 Hak Ases
 ***************
 email : admin@gmail.com 
 pass  : user
+=======
+Hak ases
+***************
+
+admin@gmail.com : user
