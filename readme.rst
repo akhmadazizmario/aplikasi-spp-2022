@@ -1,24 +1,27 @@
 ###################
-What is CodeIgniter
+aplikasi spp
 ###################
 
 aplikasi spp ini dibuat dengan framework codeigniter 3. 
-
+aplikasi spp ini masih banyak kekuranganya dan masih bisa di kembangkan lagi.
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+25 juli 2022.
 
 **************************
 Changelog and New Features
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+1. Menu Dashboard.
+2. Menu Data Guru
+3. Menu Data Walikelas
+4. Menu Data siswa
+5. Menu Transaksi
+6. Menu Laporan
+7. Menu profil
 
 *******************
 Server Requirements
