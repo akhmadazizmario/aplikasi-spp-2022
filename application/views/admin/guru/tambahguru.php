@@ -18,7 +18,7 @@
                                 <div class="row">
                                     <div class="col-md">
                                         <?= form_open('admin/guru/tambah'); ?>
-                                        <input type="text" name="id_guru" id="id_guru">
+                                        <input type="text" name="id_guru" id="id_guru" hidden>
                                         <div class="form-group">
                                             <label for="nama">Nama Guru</label>
                                             <input type="text" name="nama" id="nama" class="form-control">

@@ -3,7 +3,7 @@
     <hr>
     <div class="card shadow mb-4">
         <div class="card-header py-3 bg-dark">
-            <h6 class="m-0 font-weight-bold text-white">ubah siswa</h6>
+            <h6 class="m-0 font-weight-bold text-white">ubah Profil </h6>
         </div>
         <div class="card-body bg-info">
             <div class="table-responsive">
