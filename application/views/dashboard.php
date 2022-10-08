@@ -9,21 +9,21 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="http://localhost/spp/assets/img/bg-2.png" width="100%" height="300px">
+                    <img src="<?php echo base_url() ?>assets/img/bg-2.png" width="100%" height="300px">
                     <div class="carousel-caption d-none d-md-block">
                         <h5 class="font-weight-bold">SELAMAT DATANG DI WEBSITE</h5>
                         <p class="text-dark">Aplikasi Pembayaran SPP sekolah Tegal.</p>
                     </div>
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="http://localhost/spp/assets/img/bg-3.jpg" width="100%" height="300px">
+                    <img src="<?php echo base_url() ?>assets/img/bg-3.jpg" width="100%" height="300px">
                     <div class="carousel-caption d-none d-md-block">
                         <h5 class="font-weight-bold text-dark">Kegunaan</h5>
                         <p class="font-weight-bold text-dark">memudahkan Untuk untuk bertransaksi dengan siswa yang membayar spp.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="http://localhost/spp/assets/img/vt.jpg" width="100%" height="300px">
+                    <img src="<?php echo base_url() ?>assets/img/vt.jpg" width="100%" height="300px">
                     <div class="carousel-caption d-none d-md-block">
                         <h5 class="text-light">Sekolah Tegal</h5>
                         <p class="text-light">terletak di daerah kab.tegal, tegal jawa tengah.</p>
@@ -60,7 +60,7 @@
                         </div>
                         <div class="col-4 text-end">
                             <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                                <img src="http://localhost/spp/assets/img/profil.jpg" width="60px" height="60px">
+                                <img src="<?php echo base_url() ?>assets/img/profil.jpg" width="60px" height="60px">
                             </div>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                         </div>
                         <div class="col-4 text-end">
                             <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                                <img src="http://localhost/spp/assets/img/siswa.png" width="60px" height="60px">
+                                <img src="<?php echo base_url() ?>assets/img/siswa.png" width="60px" height="60px">
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                         </div>
                         <div class="col-4 text-end">
                             <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                                <img src="http://localhost/spp/assets/img/guru.png" width="60px" height="60px">
+                                <img src="<?php echo base_url() ?>assets/img/guru.png" width="60px" height="60px">
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                         </div>
                         <div class="col-4 text-end">
                             <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                                <img src="http://localhost/spp/assets/img/walikelas.jpg" width="60px" height="60px">
+                                <img src="<?php echo base_url() ?>assets/img/walikelas.jpg" width="60px" height="60px">
                             </div>
                         </div>
                     </div>

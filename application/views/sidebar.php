@@ -12,7 +12,7 @@
         <li class="nav-item ">
             <a class="nav-link active" href="<?= base_url('dashboard'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/dashboard.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/dashboard.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Dashboard</span>
             </a>
@@ -20,7 +20,7 @@
         <li class="nav-item">
             <a class="nav-link active" href="<?= base_url('admin/guru'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/guru.png" width="60px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/guru.png" width="60px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Data Guru</span>
             </a>
@@ -28,7 +28,7 @@
         <li class="nav-item">
             <a class="nav-link active " href="<?= base_url('admin/walikelas'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/walikelas.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/walikelas.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Data wali kelas</span>
             </a>
@@ -36,7 +36,7 @@
         <li class="nav-item">
             <a class="nav-link active " href="<?= base_url('admin/siswa'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/siswa.png" width="60px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/siswa.png" width="60px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Data siswa</span>
             </a>
@@ -44,7 +44,7 @@
         <li class="nav-item">
             <a class="nav-link active " href="<?= base_url('admin/transaksi'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/bayar.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/bayar.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Transaksi</span>
             </a>
@@ -52,7 +52,7 @@
         <li class="nav-item">
             <a class="nav-link active " href="<?= base_url('admin/laporan'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/r.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/r.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Laporan </span>
             </a>
@@ -63,7 +63,7 @@
         <li class="nav-item">
             <a class="nav-link active" href="<?php echo base_url('admin/user') ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/profil.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/profil.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Profil</span>
             </a>
@@ -71,7 +71,7 @@
         <li class="nav-item">
             <a class="nav-link active" href="<?php echo base_url('admin/user/ubahPassword') ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/password.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/password.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">Ubah Password</span>
             </a>
@@ -79,7 +79,7 @@
         <li class="nav-item">
             <a class="nav-link active" href="<?= base_url('auth/logout'); ?>">
                 <div class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center">
-                    <img src="http://localhost/spp/assets/img/logout.jpg" width="70px" height="40px">
+                    <img src="<?php echo base_url() ?>assets/img/logout.jpg" width="70px" height="40px">
                 </div>
                 <span class="nav-link-text ms-1">logout</span>
             </a>
