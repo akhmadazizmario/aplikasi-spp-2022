@@ -66,6 +66,6 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 ***************
 Hak Ases
 ***************
-email : admin@gmail.com 
-pass  : user
+- email : admin@gmail.com 
+- pass  : user
 
