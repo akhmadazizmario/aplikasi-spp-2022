@@ -14,13 +14,13 @@ Release Information
 **************************
 Changelog and New Features
 **************************
-1.Menu Dashboard.
-2.Menu Data Guru
-3.Menu Data Walikelas
-4.Menu Data siswa
-5.Menu Transaksi
-6.Menu Laporan
-7.Menu profil
+- Menu Dashboard.
+- Menu Data Guru
+- Menu Data Walikelas
+- Menu Data siswa
+- Menu Transaksi
+- Menu Laporan
+- Menu profil
 
 
 *******************
@@ -33,17 +33,8 @@ It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-************
-Installation
-************
-
-1.Download zip.
-2.Extract di htdocs
-3.Buka dan nyalain apache dan mysql di xampp
-4.jalanin http://loacalhost/spp
-
 **************
-Tampilan utama
+Installation
 **************
 
 1. Download zip.
